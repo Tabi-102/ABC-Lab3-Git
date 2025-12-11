@@ -1,0 +1,18 @@
+*   acb6b7f Merge branch 'feature2'
+|\  
+| * e58de2b feature2 change
+* |   517f925 Merge branch 'feature1'
+|\ \  
+| * | b6d614e feature1 change
+| |/  
+* | 6af5467 Add 'не алгосы' to notes.txt
+* | b9e6f2c Add 'алгосы' to notes.txt
+|/  
+| * 14453bb Add 'алгосы' after checkout 3rd commit
+|/  
+* b258679 add notes.txt 5
+* 17cb6c8 add notes.txt 4
+* ea3cd30 add notes.txt 3
+* d07ecdc add notes.txt 2
+* dfe534f add notes.txt 1
+* 2d1900a init

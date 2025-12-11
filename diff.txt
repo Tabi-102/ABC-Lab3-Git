@@ -1,0 +1,7 @@
+diff --git a/notes.txt b/notes.txt
+index e0ac48a..f007936 100644
+--- a/notes.txt
++++ b/notes.txt
+@@ -1 +1,2 @@
+ алгосы 5
++алгосы
