@@ -68,8 +68,9 @@ ABC-Lab3-Git/
 ## История коммитов
 
 Сохранена командой:
+```bash
 git log --oneline --graph --all > history.txt
-
+```
 ---
 
 ## GitHub Pages
@@ -89,9 +90,10 @@ git log --oneline --graph --all > history.txt
 ![GitHub issues](https://img.shields.io/github/issues/Tabi-102/ABC-Lab3-Git)
 ```
 ## Как запустить
+```bash
 git clone https://github.com/Tabi-102/ABC-Lab3-Git
 cd ABC-Lab3-Git
-
+```
 ## Автор
 
 Фан Туан Ань — ITMO University  
