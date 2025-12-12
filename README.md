@@ -81,14 +81,6 @@ git log --oneline --graph --all > history.txt
 
 ---
 
-## 🏷 Badges
-
-```markdown
-![GitHub last commit](https://img.shields.io/github/last-commit/Tabi-102/ABC-Lab3-Git)
-![GitHub repo size](https://img.shields.io/github/repo-size/Tabi-102/ABC-Lab3-Git)
-![GitHub stars](https://img.shields.io/github/stars/Tabi-102/ABC-Lab3-Git?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Tabi-102/ABC-Lab3-Git)
-```
 ## Как запустить
 ```bash
 git clone https://github.com/Tabi-102/ABC-Lab3-Git
